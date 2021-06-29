@@ -24,10 +24,9 @@ Hi there! I'm Guillaume! Former Product Manager of the banking industry, in 2021
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Guillaume-Cojan&&theme=gotham" alt="Guillaume-Cojan" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Guillaume-Cojan&show_icons=true&locale=en&theme=gotham" alt="Guillaume-Cojan" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Guillaume-Cojan&show_icons=true&locale=en&layout=compact&theme=gotham" alt="Guillaume-Cojan" /></p>
-<br></br>
-  
----
-  
+
+ ---
+
 <h3 align="center">👨‍💻 Main Projects 👨‍💻</h3>
 <p align="center">
 <a href="https://github.com/Guillaume-Cojan/Landing_jobs" title="Landing.Salary"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Guillaume-Cojan&repo=Landing_jobs&theme=gotham&border_color=white&border_radius=10"></a>
@@ -36,4 +35,4 @@ Hi there! I'm Guillaume! Former Product Manager of the banking industry, in 2021
 <a href="https://github.com/Guillaume-Cojan/.scratch" title=".scratch"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Guillaume-Cojan&repo=.scratch&theme=gotham&border_color=white&border_radius=10"></a>
 </p>
 
----
+  ---
