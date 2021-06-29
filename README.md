@@ -1,8 +1,8 @@
 ## Junior Full Stack Developer - Remote worker 💻
 
-Hi there! I'm Guillaume, Junior Software Developer who enjoy creating cutting-edge products with passionate teams on different platforms.
+Hi there! I'm Guillaume! Former Product Manager of the banking industry, in 2021, I took the great opportunity to retrain in the field of web development following a 5 month full-time Bootcamp at Wild Code School. Now Junior Software Developer, I enjoy creating cutting-edge products with passionate teams on different platforms.
 
-I'm working remotely as a freelance/consultant, and as a full stack developer, I'm able to create a project from scratch or help an existing team on the following technologies:
+I'm working remotely as a freelance/consultant, and as a fullstack developer, I'm able to create a project from scratch or help an existing team on the following technologies:
 
 ---
 <h3 align="center">Main Languages:</h3>
@@ -23,10 +23,10 @@ I'm working remotely as a freelance/consultant, and as a full stack developer, I
 ---
   
 <h3 align="center"📈 Statistics 📈</h3>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Guillaume-Cojan&&theme=gotham" alt="Guillaume-Cojan" /></p>
+<br><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Guillaume-Cojan&&theme=gotham" alt="Guillaume-Cojan" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Guillaume-Cojan&show_icons=true&locale=en&theme=gotham" alt="Guillaume-Cojan" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Guillaume-Cojan&show_icons=true&locale=en&layout=compact&theme=gotham" alt="Guillaume-Cojan" /></p>
-
+</br>
   
 ---
   
