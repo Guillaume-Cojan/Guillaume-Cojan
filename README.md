@@ -18,6 +18,8 @@ Hi there! I'm Guillaume! Former Product Manager of the banking industry, in 2021
 
 <h3 align="center">Let's connect on LinkedIn: <a href="https://www.linkedin.com/in/guillaumecojan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/guillaumecojan/" height="20" width="30" /></a> </h3>
 
+
+    
 ---
   
 <h3 align="center"📈 Statistics 📈</h3>
