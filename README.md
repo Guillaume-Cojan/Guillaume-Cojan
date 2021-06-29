@@ -18,8 +18,6 @@ Hi there! I'm Guillaume! Former Product Manager of the banking industry, in 2021
 
 <h3 align="center">Let's connect on LinkedIn: <a href="https://www.linkedin.com/in/guillaumecojan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/guillaumecojan/" height="20" width="30" /></a> </h3>
 
-
-    
 ---
   
 <h3 align="center"📈 Statistics 📈</h3>
@@ -27,6 +25,8 @@ Hi there! I'm Guillaume! Former Product Manager of the banking industry, in 2021
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Guillaume-Cojan&show_icons=true&locale=en&theme=gotham" alt="Guillaume-Cojan" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Guillaume-Cojan&show_icons=true&locale=en&layout=compact&theme=gotham" alt="Guillaume-Cojan" /></p>
 <br><br/>
+
+
 
  ---
 
