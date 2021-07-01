@@ -1,4 +1,4 @@
-<h1 align="center"># Junior Full Stack Developer - Remote worker 💻</h1>
+<h1 align="center"># Junior Full Stack Web Developer - Remote worker 💻</h1>
 
 Hi there! I'm Guillaume! Former Product Manager of the banking industry, in 2021, I took the great opportunity to retrain in the field of web development following a 5 month full-time Bootcamp at Wild Code School. Now working remotely as a freelance/consultant, I enjoy creating cutting-edge products with passionate teams on different platforms and, as a fullstack developer, I'm able to create a project from scratch or help an existing team on the following technologies:
 
