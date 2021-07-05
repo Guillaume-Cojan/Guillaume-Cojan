@@ -20,18 +20,18 @@ Hi there! I'm Guillaume! Former Product Manager of the banking industry, in 2021
 
 ---
   
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Guillaume-Cojan&show_icons=true&locale=en&theme=gotham" alt="Guillaume-Cojan" /></p>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Guillaume-Cojan&&theme=gotham" alt="Guillaume-Cojan" /></p>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Guillaume-Cojan&show_icons=true&locale=en&layout=compact&theme=gotham" alt="Guillaume-Cojan" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Guillaume-Cojan&show_icons=true&locale=en&theme=nord" alt="Guillaume-Cojan" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Guillaume-Cojan&&theme=nord" alt="Guillaume-Cojan" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Guillaume-Cojan&show_icons=true&locale=en&layout=compact&theme=nord" alt="Guillaume-Cojan" /></p>
 
 ---
 
 <h3 align="center">👨‍💻 Main Projects 👨‍💻</h3>
 <p align="center">
-<a href="https://github.com/Guillaume-Cojan/Landing_jobs" title="Landing.Salary"><img height="115" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Guillaume-Cojan&repo=Landing_jobs&theme=gotham&border_color=white&border_radius=10"></a>
-<a href="https://github.com/Guillaume-Cojan/MarsAdvisor-Hackathon" title="MarsAdvisor"><img height="115" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Guillaume-Cojan&repo=MarsAdvisor-Hackathon&theme=gotham&border_color=white&border_radius=10"></a> 
-<a href="https://github.com/Guillaume-Cojan/quizzies-1" title="Trivia Night"><img height="115" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Guillaume-Cojan&repo=quizzies-1&theme=gotham&border_color=white&border_radius=10"></a> 
-<a href="https://github.com/Guillaume-Cojan/.scratch" title=".scratch"><img height="115" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Guillaume-Cojan&repo=.scratch&theme=gotham&border_color=white&border_radius=10"></a>
+<a href="https://github.com/Guillaume-Cojan/Landing_jobs" title="Landing.Salary"><img height="115" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Guillaume-Cojan&repo=Landing_jobs&theme=nord&border_color=white&border_radius=10"></a>
+<a href="https://github.com/Guillaume-Cojan/MarsAdvisor-Hackathon" title="MarsAdvisor"><img height="115" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Guillaume-Cojan&repo=MarsAdvisor-Hackathon&theme=nord&border_color=white&border_radius=10"></a> 
+<a href="https://github.com/Guillaume-Cojan/quizzies-1" title="Trivia Night"><img height="115" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Guillaume-Cojan&repo=quizzies-1&theme=nord&border_color=white&border_radius=10"></a> 
+<a href="https://github.com/Guillaume-Cojan/.scratch" title=".scratch"><img height="115" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Guillaume-Cojan&repo=.scratch&theme=nord&border_color=white&border_radius=10"></a>
 </p>
 
 ---
