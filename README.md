@@ -28,5 +28,5 @@ Hi there! I'm Guillaume! Former Product Manager of the banking industry, in 2021
 
 <h3 align="center">👨‍💻 Main Projects 👨‍💻</h3>
 <p align="center">
-Check my pinned repo here 👇
+Check my pinned repos here 👇
 </p>
