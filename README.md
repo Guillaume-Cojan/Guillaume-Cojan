@@ -20,7 +20,7 @@ Hi there! I'm Guillaume! Former Product Manager of the banking industry, in 2021
 
 ---
   
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Guillaume-Cojan&show_icons=true&locale=en&theme=nord" alt="Guillaume-Cojan" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Guillaume-Cojan&show_icons=true&locale=en&theme=nord&&count_private=true" alt="Guillaume-Cojan" /></p>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Guillaume-Cojan&&theme=nord" alt="Guillaume-Cojan" /></p>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Guillaume-Cojan&show_icons=true&locale=en&layout=compact&theme=nord" alt="Guillaume-Cojan" /></p>
 
